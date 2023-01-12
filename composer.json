@@ -1,0 +1,21 @@
+{
+    "name": "thefunpower/sub_site",
+    "type": "library",
+    "description": "sub_site",
+    "keywords": ["php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ken.sun",
+            "email": "kungfutime@foxmail.com" 
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }, 
+    "autoload": { 
+        "files": [
+            "./sub_site.php" 
+        ]
+    }
+}
