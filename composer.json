@@ -1,7 +1,7 @@
 {
     "name": "thefunpower/sub_site",
     "type": "library",
-    "description": "sub_site",
+    "description": "子站点",
     "keywords": ["php"],
     "license": "MIT",
     "authors": [
